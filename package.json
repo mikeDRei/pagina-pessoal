@@ -1,0 +1,22 @@
+{
+    "name": "paginadelinks",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mikeDRei/pagina-pessoal.git"
+    },
+    "author": "mikeDRei",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mikeDRei/pagina-pessoal/issues"
+    },
+    "homepage": "https://github.com/mikeDRei/pagina-pessoal#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
